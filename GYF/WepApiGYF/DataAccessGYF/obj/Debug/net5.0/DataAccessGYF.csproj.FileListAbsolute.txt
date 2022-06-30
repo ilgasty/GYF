@@ -1,0 +1,15 @@
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\obj\Debug\net5.0\DataAccessGYF.csproj.AssemblyReference.cache
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\obj\Debug\net5.0\DataAccessGYF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\obj\Debug\net5.0\DataAccessGYF.AssemblyInfoInputs.cache
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\obj\Debug\net5.0\DataAccessGYF.AssemblyInfo.cs
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\obj\Debug\net5.0\DataAccessGYF.csproj.CoreCompileInputs.cache
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\bin\Debug\net5.0\DataAccessGYF.deps.json
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\bin\Debug\net5.0\DataAccessGYF.dll
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\bin\Debug\net5.0\ref\DataAccessGYF.dll
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\bin\Debug\net5.0\DataAccessGYF.pdb
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\obj\Debug\net5.0\DataAccessGYF.dll
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\obj\Debug\net5.0\ref\DataAccessGYF.dll
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\obj\Debug\net5.0\DataAccessGYF.pdb
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\bin\Debug\net5.0\DataAccessGYF.runtimeconfig.json
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\bin\Debug\net5.0\DataAccessGYF.runtimeconfig.dev.json
+C:\Users\gpellegrini\source\repos\WepApiGYF\DataAccessGYF\obj\Debug\net5.0\DataAccessGYF.genruntimeconfig.cache

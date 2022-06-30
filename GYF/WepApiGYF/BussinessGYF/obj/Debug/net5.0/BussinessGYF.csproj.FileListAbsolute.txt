@@ -1,0 +1,15 @@
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\bin\Debug\net5.0\BussinessGYF.deps.json
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\bin\Debug\net5.0\BussinessGYF.dll
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\bin\Debug\net5.0\ref\BussinessGYF.dll
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\bin\Debug\net5.0\BussinessGYF.pdb
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\obj\Debug\net5.0\BussinessGYF.csproj.AssemblyReference.cache
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\obj\Debug\net5.0\BussinessGYF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\obj\Debug\net5.0\BussinessGYF.AssemblyInfoInputs.cache
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\obj\Debug\net5.0\BussinessGYF.AssemblyInfo.cs
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\obj\Debug\net5.0\BussinessGYF.csproj.CoreCompileInputs.cache
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\obj\Debug\net5.0\BussinessGYF.dll
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\obj\Debug\net5.0\ref\BussinessGYF.dll
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\obj\Debug\net5.0\BussinessGYF.pdb
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\bin\Debug\net5.0\DataAccessGYF.dll
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\bin\Debug\net5.0\DataAccessGYF.pdb
+C:\Users\gpellegrini\source\repos\WepApiGYF\BussinessGYF\obj\Debug\net5.0\BussinessGYF.csproj.CopyComplete
